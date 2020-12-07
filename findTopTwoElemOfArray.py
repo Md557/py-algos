@@ -5,8 +5,8 @@
 
 class largestTwo:
     def __init__(self):        
-    self.first=None
-    self.second=None
+        self.first=None
+        self.second=None
     
 #aList=[4,2,23] -> assert 23,4
 #aList=[1] -> assert 1, None
